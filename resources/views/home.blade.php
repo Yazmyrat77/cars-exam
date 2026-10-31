@@ -20,7 +20,7 @@
     <div class="flex items-center gap-12 max-w-4xl w-full justify-center mx-auto">
         <div class="w-1/3 bg-gray-100 p-4 rounded-lg max-w-sm shadow-sm transition-all duration-300 hover:shadow-2xl hover:-translate-y-1">
             <img src="{{ asset('cars\10.jpg') }}" alt="BMW M3" class="w-100 h-auto rounded-xl">
-            <div class="text-2xl">Marka: Hyundai</div>
+            <div class="text-2xl">Marka: Hundai</div>
             <div class="text-2xl">Model: Elantra</div>
             <div class="text-2xl">Color: White</div>
             <div class="text-2xl">Year: 2025</div>
