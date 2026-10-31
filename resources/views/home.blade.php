@@ -58,7 +58,7 @@
             <div class="text-2xl">Model: F-150</div>
             <div class="text-2xl">Color: White</div>
             <div class="text-2xl">Year: 2023</div>
-            <div class="text-2xl">Country: China</div>
+            <div class="text-2xl">Country0: China</div>
             <div class="text-2xl">Price: $65.000</div>
         </div>
         <div class="w-1/3 bg-gray-100 p-4 rounded-lg max-w-sm shadow-sm transition-all duration-300 hover:shadow-2xl hover:-translate-y-1">
