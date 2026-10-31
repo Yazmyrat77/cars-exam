@@ -23,7 +23,7 @@
             <div class="text-2xl">Marka: Hundai</div>
             <div class="text-2xl">Model: Elantra</div>
             <div class="text-2xl">Color: Gray</div>
-            <div class="text-2xl">Year: 2025</div>
+            <div class="text-2xl">Year: 2024</div>
             <div class="text-2xl">Country: USA</div>
             <div class="text-2xl">Price: $40.000</div>
         </div>
